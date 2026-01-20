@@ -23,8 +23,6 @@ The web interface allows users to:
 - Provide an email ID to receive results
 
 📸 **UI Screenshot:**  
-(Add the screenshot image file in this folder and reference it below)
 
 ```md
 ![TOPSIS Web UI](UI.png)
-```
