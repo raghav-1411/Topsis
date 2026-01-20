@@ -16,13 +16,20 @@ This repository contains a complete implementation of the TOPSIS (Technique for 
 
 ---
 
-## Repository Structure
+## 📌 Sample Input File (IMPORTANT)
 
-Topsis/
-├── Part1/ # Command-line TOPSIS program
-├── Part2/ # Python package (PyPI)
-├── Part3/ # Streamlit web application
-└── README.md # Project overview
+Create a file named **`data.csv`** in the same folder as `topsis.py` and paste the following content:
+
+```csv
+Fund,P1,P2,P3,P4,P5
+M1,0.71,0.50,3.9,33.8,9.73
+M2,0.88,0.77,5.2,45.8,13.16
+M3,0.78,0.61,3.8,40.1,11.32
+M4,0.91,0.83,5.8,43.8,12.84
+M5,0.76,0.58,6.4,34.8,10.6
+```
+
+
 
 
 ---
