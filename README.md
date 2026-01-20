@@ -76,6 +76,18 @@ Part-III provides a web-based interface using Streamlit, enabling users to uploa
 https://topsis-web.streamlit.app
 ```
 
+## 🖥️ User Interface
+
+The web interface allows users to:
+
+- Upload a CSV file
+- Enter weights (comma-separated)
+- Enter impacts (`+` or `-`, comma-separated)
+- Provide an email ID to receive results
+
+📸 **UI Screenshot:**  
+
+<img src="UI.png" alt="TOPSIS Web UI" width="800">
 
 
 
