@@ -24,5 +24,4 @@ The web interface allows users to:
 
 📸 **UI Screenshot:**  
 
-```md
-![TOPSIS Web UI](UI.png)
+<img src="UI.png" alt="TOPSIS Web UI" width="800">
